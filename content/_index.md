@@ -207,6 +207,7 @@ sections:
         {{% callout note %}}
         [ALL](./publication/).
         {{% /callout %}}
+      count: 5
       filters:
         folders:
           - publication
