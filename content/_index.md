@@ -200,14 +200,14 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: Publications
+    id: featured
     content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
         [ALL](./publication/).
         {{% /callout %}}
-      count: 5
+      count: 1
       filters:
         folders:
           - publication
